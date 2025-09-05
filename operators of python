@@ -1,0 +1,11 @@
+pemdas 
+
+
+****
+P = Parenthesis '()'
+E = Exponents "**" => 2^2 = 4
+M = Multiplication "*" => 2*2 = 4
+D = Division  "/" gives decimal values  =>  7/2 = 3.50 (Float)
+  (or)  "//" gives integer  => 7//2 = 3 
+A = addition "+"
+S = Subtraction  "-"
